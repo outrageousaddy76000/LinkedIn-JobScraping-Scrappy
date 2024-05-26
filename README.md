@@ -8,28 +8,28 @@ This LinkedIn Job Scraper is a tool to fetch job listings from LinkedIn based on
 - Extracts job title, company name, and job description.
 - Saves output as CSV files.
 
-Prerequisites
-Python 3.6+
-Internet connection
-Setup and Installation
-Clone or Download the Project
+## Prerequisites
+- Python 3.6+
+- Internet connection
 
-Download the project files to your local machine.
-
-Create a Virtual Environment
-
-Open a terminal and navigate to the project directory. Create a virtual environment with the following command:
-
+## Setup and Installation
+- Clone or Download the Project
+- Download the project files to your local machine.
+- Create a Virtual Environment
+- Open a terminal and navigate to the project directory. Create a virtual environment with the following command:
+```
 python -m venv env
+```
+- Activate the Virtual Environment
 
-Activate the Virtual Environment
-
-On Windows:
+###### On Windows:
+```
 env\Scripts\activate
-
-On macOS/Linux:
+```
+###### On macOS/Linux:
+```
 source env/bin/activate
-
+```
 Install Dependencies
 
 Install the required dependencies by running:
