@@ -30,14 +30,13 @@ env\Scripts\activate
 ```
 source env/bin/activate
 ```
-Install Dependencies
-
+- Install Dependencies
 Install the required dependencies by running:
-
+```
 pip install -r requirements.txt
-
+```
 Running the Scraper
-run.py 
+```run.py``` 
 
 Open the run.py file and run it or using the terminal:
 
