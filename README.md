@@ -35,19 +35,19 @@ Install the required dependencies by running:
 ```
 pip install -r requirements.txt
 ```
-Running the Scraper
+###### Running the Scraper
 ```run.py``` 
 
 Open the run.py file and run it or using the terminal:
-
+```
 python run.py
-
-Output
+```
+##### Output
 The CSV files will be saved in the same directory where the script is run. Each file will be named based on the job title and the current date. For example:
 
 These files will contain the scraped job listings with details such as job title, company name, and job description.
 
-Notes
+### Notes
 Ensure you have a stable internet connection while running the scraper.
 If LinkedIn blocks requests due to too many requests in a short time, consider adding delays or using a proxy service.
 This overview provides a simple guide on how to set up and run the LinkedIn Job Scraper using the provided script. No advanced technical knowledge is required.
